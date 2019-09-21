@@ -4,9 +4,6 @@ A Minimalistic todo app made with Flutter.
 
 # Screenshots
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/27aadesh/todoapp/master/Screenshot_1569087375.png" style="width:128px;height:500px;">
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/27aadesh/newsapp/master/NEWS%20DETAILS1.JPG">
