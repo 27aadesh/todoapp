@@ -1,6 +1,17 @@
-# animation_test
+# todo - Daily Task List
 
-A new Flutter project.
+A Minimalistic todo app made with Flutter.
+
+# Screenshots
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/27aadesh/todoapp/master/Screenshot_1569087375.png">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/27aadesh/newsapp/master/NEWS%20DETAILS1.JPG">
+</p>
+
 
 ## Getting Started
 
