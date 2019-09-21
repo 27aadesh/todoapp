@@ -101,8 +101,8 @@ class _ClickCounterState extends State<ClickCounter> {
       scale: animation,
       child: ListTile(
         dense: false,
-        leading: t.isCompleted?Icon(Icons.radio_button_checked):Icon(Icons.radio_button_unchecked),
-        onLongPress: () {
+        leading: t.isCompleted?Icon(Icons.check_circle):Icon(Icons.radio_button_unchecked),
+        onLongPress: ()  {
           setState(() {
             _listKey.currentState.removeItem(
                 0, (context, animation) => buildItem(context, t, animation),
